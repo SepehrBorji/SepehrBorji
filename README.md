@@ -11,7 +11,7 @@ You can find this game on the Google play store and on my Itch.io under the deve
 [![Breakthru Cover Image](https://github.com/SepehrBorji/Breakthru-Build/blob/main/breakthrough%20social%20media.png)](https://github.com/SepehrBorji/Breakthru-Build)
 Since the assets were incredibly simple to make, the focus here was making my first project without any tutorials. I implemented 2D physics and very basic player movement. This game was simply to dip my toes into creating a project from conception to completion successfully, and the next projects will be more ambitious.
 
-## Memory Systems Tool | Python 
+## Super Power Memory Tool | Python 
 [![Memory Systems Tool](https://github.com/SepehrBorji/Memory-Systems/blob/main/Readme/Memory-systems-preview.png)](https://github.com/SepehrBorji/Memory-Systems)
 This project was not born out of simply wanting to make a project, but because I needed a tool to help me work on my memorization skills, and ironically, a method for this was to use a memory system that I was reading about at the time. With this program I automated a "flash-card" like process to help me remember and in doing so, improve my memory even further. Without this tool it probably would've taken me an hour just to practice system once, but this tool allowed the process to condense down to 10 minutes per practice.
 
