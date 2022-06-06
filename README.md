@@ -1,5 +1,5 @@
 # Hello There!
-My name is Sepehr Borji, and I'm an Engineering Student who loves to make games in his spare time!
+My name is Sepehr Borji, and I'm an Engineering Student who loves to make games under the studio name "Dr. Apple"
 
 # Project Highlights
 
